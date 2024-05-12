@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "poetry supimpas"
+version = "poetry shell"
+description = "config supimpas"
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

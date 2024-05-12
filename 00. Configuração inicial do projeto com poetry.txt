@@ -1,0 +1,11 @@
+
+
+
+Utilizando Poetry
+
+Pip instal poetry
+poetry init
+
+Fazer a Configuração (exemplo: https://www.youtube.com/watch?v=ML6ylZU0ChQ&t=276s)
+
+* Também posso alterar manualmente o arquivo pyproject.toml para incluir/alterar configurações e dependências
